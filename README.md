@@ -1,13 +1,13 @@
 # TrojanWin32.Mercurium
-##WARNING
+## WARNING
 The creators of Mercurium don't have responsibility if your PC fucks
 Os criadores do Mercurium não tem responsabilidade se seu PC fuder
 
-##INTRODUCTION
+## INTRODUCTION
 Mercurium is a GDI Trojan made in C#, C++, Assembly, Batch and F#
 Mercurium é um Trojan de GDI feito em C#, C++, Assembly, Batch e F#
 
-##LANGUAGES
+## LANGUAGES
 Is our first Trojan with a Non-Skidded functional MBR, made in Assembly
 Esse é o nosso primeiro Trojan com uma MBR funcional Não-Skiddada
 
